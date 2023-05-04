@@ -1,0 +1,6 @@
+name = "c3-image-proxy"
+main = "src/index.ts"
+compatibility_date = "2023-05-03"
+kv_namespaces = [
+  { binding = "SANITY_ASSETS", id = "722b64fb0209455588bbcff373afd769" ,preview_id = "c46911dbc5434873b3560144b9f52b67"}
+]
